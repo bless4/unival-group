@@ -52,7 +52,7 @@ class Header extends Component {
 
                     <div className="header_logo">
                         <div className="font_righteous header_logo_venue">Unival Group</div>
-                        <div className="header_logo_title">Musical Event</div>
+                        <div className="header_logo_title">Musical Events</div>
                     </div>
 
                     <IconButton
