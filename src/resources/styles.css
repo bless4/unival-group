@@ -28,7 +28,7 @@ body {
 }
 
 .center_wrapper {
-    width: 900px;
+    width: 90%;
     margin:0 auto;
 }
 
@@ -76,7 +76,7 @@ footer .footer_copyright {
 
 
 .carrousel_wrapper {
-    height:700px;
+    height:70%;
     overflow: hidden;
 }
 
@@ -121,7 +121,7 @@ footer .footer_copyright {
     background: #ff4800;
     font-size: 19px;
     padding: 10px;
-    display: inline-block;
+    display: flex;
     text-transform: uppercase;
 }
 
